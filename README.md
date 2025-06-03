@@ -1,28 +1,13 @@
 <h1 align="center">Olá 👋, eu me chamo Millena Kappaun!</h1>
 <h1 align="center">👩🏼‍💻👾🖥️📚🕹️</h1>
+<h1 align="center">Sobre mim...</h1>
 
 <p align="center">Sempre busco priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebi que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
-
-
-
-
- 
  &nbsp;
  &nbsp;
-
-
-
- 
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
 
 
 
@@ -40,7 +25,6 @@
 
 &nbsp;
 &nbsp;
-
 
   
 ## Contacts:
