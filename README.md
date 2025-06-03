@@ -2,7 +2,7 @@
 <h1 align="center">👩🏼‍💻👾🖥️📚🕹️</h1>
 <h1 align="center">Sobre mim...</h1>
 
-<p align="center">Sempre busco priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebi que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
+<p align="center">Sempre busco priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebo que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! <br>Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
 
  &nbsp;
  &nbsp;
