@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Millena Kappaun!</h1>
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/C:\Users\Pichau\Downloads\Blue Modern Company Slogan LinkedIn Banner.png" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -41,6 +41,9 @@
 <a href = "mailto:contato.kappaunmillena@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
+
+
+
 
   
   
