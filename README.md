@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Millena Kappaun!</h1>
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="media.istockphoto.com/id/1267652674/pt/foto/hacker-using-laptop-into-dark-web.jpg?s=2048x2048&w=is&k=20&c=B0UzHw-DPijMXhNXv7Lddo3cbfqWN0Hl5O9nmwFjoF8=" />
-&nbsp;&nbsp;&nbsp;
-
+<h1>👩🏼‍💻👾🖥️📚🕹️</h1>
 
 <p align="center">Sempre busco priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebi que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
 
@@ -28,6 +26,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![visual studio 2022](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 
 &nbsp;
