@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Millena Kappaun!</h1>
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/C:\Users\Pichau\Downloads\Blue Modern Company Slogan LinkedIn Banner.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.comhttps://media.istockphoto.com/id/1267652674/pt/foto/hacker-using-laptop-into-dark-web.jpg?s=2048x2048&w=is&k=20&c=B0UzHw-DPijMXhNXv7Lddo3cbfqWN0Hl5O9nmwFjoF8=" />
 &nbsp;&nbsp;&nbsp;
 
 
