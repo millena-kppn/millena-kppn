@@ -25,9 +25,10 @@
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 
+#### Outras tecnologias/ferramentas que uso:
 
-&nbsp;
-&nbsp;
+<img alt="Figma" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
+<img alt="Canva" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png"/>
 
   
 ## Contatos:
