@@ -28,7 +28,7 @@
 #### Outras tecnologias/ferramentas que uso:
 
 <img alt="Figma" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="50"/>&nbsp;
-<img alt="Canva" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="70"/>
+<img alt="Canva" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="60"/>
 
   
 ## Contatos:
