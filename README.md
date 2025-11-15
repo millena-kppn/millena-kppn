@@ -5,6 +5,7 @@
 <p align="center">Sou uma dev que sempre busca priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebo que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! <br>Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
 <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" min-width="200px" max-width="600px" width="400px" align="right" alt="Gif">
 
+<br>
 
 #### Estou estudando neste momento:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
