@@ -11,8 +11,6 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
- &nbsp;
- &nbsp;
 <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" min-width="200px" max-width="600px" width="400px" align="right" alt="Gif">
 
 #### Editor de codigo fonte:
