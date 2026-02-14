@@ -23,7 +23,7 @@
 
 
 #### Outras tecnologias/ferramentas que uso:
-![Static Badge](https://img.shields.io/badge/Canva-65C2CB?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Canva-41E0FD?style=for-the-badge)&nbsp;
 ![Static Badge](https://img.shields.io/badge/I.A-313131?style=for-the-badge)&nbsp;
 
 
